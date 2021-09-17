@@ -1,0 +1,5 @@
+main.c:70:6:HAL_UART_RxCpltCallback	0	static
+main.c:133:6:Usart_Menu_Yazdir	16	static
+main.c:212:6:SystemClock_Config	72	static,ignoring_inline_asm
+main.c:147:5:main	56	static,ignoring_inline_asm
+main.c:387:6:Error_Handler	0	static,ignoring_inline_asm
